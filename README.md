@@ -155,7 +155,7 @@ churn-prediction-project/
 ```bash
 git  clone  https://github.com/mohammedaltet/Chatbot-Assistant-for-Churn-Prediction.git
 
-cd  churn-prediction-project
+cd  Chatbot-Assistant-for-Churn-Prediction
 ```
 
   
