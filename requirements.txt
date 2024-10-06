@@ -1,0 +1,6 @@
+fastapi==0.115.0
+pydantic==1.10.18
+pandas==1.5.3
+joblib==1.4.2
+huggingface_hub==0.25.1
+uvicorn==0.22.0 
