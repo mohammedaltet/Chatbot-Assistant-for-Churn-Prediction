@@ -153,7 +153,7 @@ churn-prediction-project/
   
 
 ```bash
-git  clone  https://github.com/yourusername/churn-prediction-project.git
+git  clone  https://github.com/mohammedaltet/Chatbot-Assistant-for-Churn-Prediction.git
 
 cd  churn-prediction-project
 ```
