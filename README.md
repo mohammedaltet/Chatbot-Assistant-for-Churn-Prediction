@@ -259,8 +259,9 @@ uvicorn  app:app  --reload
 
 ```json
 {
-"customer_information": "The customer is a male who is not a senior citizen. He has been with the company for 45 months. The customer is not married and has no dependents. He does not have phone service but uses a dual-line connection. His internet service provider is DSL. The customer has online security enabled, does not have online backup, but has device protection. He receives technical support but does not subscribe to streaming TV or streaming movies. The customer has a one-year contract and does not use paperless billing. He pays through bank transfer (automatic). His monthly charges are 42.3 and his total charges so far are 1840.75."
+  "customer_information": "The customer is a Male who is not a senior citizen. He has been with the company for 65 months.The customer is not married and has no dependents. He does not have phone service but uses a dual-line connection.His internet service provider is DSL. The customer has online security enabled, does not have online backup, but has device protection.He receives technical support but does not subscribe to streaming TV or streaming movies.The customer has a one-year contract and does not use paperless billing. He pays through bank transfer (automatic).His monthly charges are 42.3 and his total charges so far are 1840.75. The customer is not predicted to churn."
 }
+
 ```
 
   
